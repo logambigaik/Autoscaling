@@ -90,12 +90,12 @@
 
   ![image](https://user-images.githubusercontent.com/54719289/108547554-a2077200-7310-11eb-8de4-54ac318342e9.png)
   
-      >> Create Subscription:
+          >> Create Subscription:
    
   ![image](https://user-images.githubusercontent.com/54719289/108547836-01658200-7311-11eb-8758-354408dfcf6f.png)
   
   
-     >> Mail Confirmation:
+          >> Mail Confirmation:
   
   ![image](https://user-images.githubusercontent.com/54719289/108548064-51dcdf80-7311-11eb-81e3-5551ce927daf.png)
   
@@ -128,6 +128,27 @@
 # To check CPU utilization , use top command
 
 ![image](https://user-images.githubusercontent.com/54719289/108550123-21e30b80-7314-11eb-96e2-f9ac3c7c79ed.png)
+
+# Specify below to increase CPU:
+
+      [root@ip-172-31-45-146 ~]# for i in 1 2 3 4; do while : ; do : ; done & done
+
+![image](https://user-images.githubusercontent.com/54719289/108551237-aaae7700-7315-11eb-88c2-3ba796b87497.png)
+
+# Now CPU Utilization % is:
+
+![image](https://user-images.githubusercontent.com/54719289/108551494-0c6ee100-7316-11eb-875c-e640d9c56929.png)
+
+
+# CPu Utilization is not yet updated and wait for a minute:
+
+![image](https://user-images.githubusercontent.com/54719289/108552038-c9613d80-7316-11eb-9295-0d88b4258747.png)
+
+>> Check the notifcation in email:
+
+![image](https://user-images.githubusercontent.com/54719289/108552141-e7c73900-7316-11eb-86c0-ebc6d00aa5bd.png)
+
+![image](https://user-images.githubusercontent.com/54719289/108552480-5e643680-7317-11eb-9e01-a5f36cfaeea6.png)
 
   
 
