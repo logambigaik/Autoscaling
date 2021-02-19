@@ -18,3 +18,11 @@
  
  ![image](https://user-images.githubusercontent.com/54719289/108525874-8b542180-72f6-11eb-9217-2a43389b8da4.png)  
   
+# Created Launch configuration for Auto scaling:
+
+![image](https://user-images.githubusercontent.com/54719289/108526850-a1161680-72f7-11eb-9997-93ccdcf43e5d.png)
+
+
+# Create Auto Scaling with exiting Launch configuration
+
+![image](https://user-images.githubusercontent.com/54719289/108526850-a1161680-72f7-11eb-9997-93ccdcf43e5d.png)
